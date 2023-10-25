@@ -165,7 +165,12 @@ footer {
 	.column {
 		width: 100%;
 	}
+
 	.header {
 		padding: 30px 15px 15px 15px;
+	}
+
+	body {
+		width: 90%;
 	}
 }
