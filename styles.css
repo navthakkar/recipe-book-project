@@ -94,7 +94,7 @@ p {
 
 }
 
-.cooking, .baking, .drinks {
+.cooking, .baking, .drinks {;
   	display: flex;
   	flex-direction: row;
   	flex-wrap: wrap;
