@@ -68,6 +68,14 @@ body {
 	font-style: normal;
 }
 
+.tag-2 {
+	border: 1px solid white;
+	padding: 0px 3px;
+	font-weight: 90;
+	font-style: normal;
+}
+}
+
 .card {
 	margin: 0px 30px;
 }
@@ -94,6 +102,18 @@ body {
 .description {
 	text-align: justify;
 	margin: 0px 30px;
+}
+
+.citations {
+	margin: 0px 30px;
+}
+
+.citations a {
+	color: black;
+}
+
+.citations a:visited {
+	color: slategray;
 }
 
 .thoughts {
@@ -151,6 +171,12 @@ button:hover {
 	background-color: white;
 	color: black;
 }
+
+button a {
+	text-decoration: none;
+	color: currentColor;
+}
+
 
 footer {
 	background-color: black;
