@@ -120,7 +120,7 @@ body {
 	padding: 1px 3px;
 }
 
-/*
+/* old code for link as a button - switched to using <button> for better accessibility
 .button-2 {
 	text-align: center;
 	width: 230px;
