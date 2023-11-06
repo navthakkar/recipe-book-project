@@ -43,7 +43,7 @@ header a {
 	color: white;
 	width: 80%;
 	text-align: center;
-	margin: auot;
+	margin: auto;
 	font-size: 1.6em;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .description a:visited {
-	color: slategrey;
+	color: darkslategrey;
 }
 
 .tag {

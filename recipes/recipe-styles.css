@@ -43,7 +43,7 @@ header a {
 	color: white;
 	width: 80%;
 	text-align: center;
-	margin: auot;
+	margin: auto;
 	font-size: 1.6em;
 }
 
@@ -73,7 +73,6 @@ body {
 	padding: 0px 3px;
 	font-weight: 90;
 	font-style: normal;
-}
 }
 
 .card {
@@ -113,7 +112,7 @@ body {
 }
 
 .citations a:visited {
-	color: slategray;
+	color: darkslategrey;
 }
 
 .thoughts {
