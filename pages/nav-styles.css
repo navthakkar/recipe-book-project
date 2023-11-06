@@ -70,8 +70,15 @@ body {
 	color: darkslategrey;
 }
 
-.tag {
+#black-tag {
 	border: 1px solid black;
+	padding: 0px 3px;
+	font-weight: 90;
+	font-style: normal;
+}
+
+#white-tag {
+	border: 1px solid white;
 	padding: 0px 3px;
 	font-weight: 90;
 	font-style: normal;
